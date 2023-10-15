@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Triangle.Compiler</name>
-	<comment></comment>
+	<name>Triangle-Tools</name>
+	<comment>Project a5-triangle-tools created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
@@ -20,11 +20,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>programs</name>
-			<type>2</type>
-			<location>C:/Users/Ryan McLean/a5-triangle-tools/programs</location>
-		</link>
-	</linkedResources>
 </projectDescription>
